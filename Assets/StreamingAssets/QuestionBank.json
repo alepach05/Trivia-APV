@@ -1,0 +1,277 @@
+[
+    {
+        "nombreDificultad": "Super Easy",
+        "preguntas": [
+            {
+                "enunciado": "Cual es el continente mas grande del mundo?",
+                "respuestas": [
+                    { "texto": "America" },
+                    { "texto": "Asia" },
+                    { "texto": "Oceania" },
+                    { "texto": "Europa" }
+                ],
+                "respuestaCorrecta": 1
+            },
+            {
+                "enunciado": "Que pais tiene la forma de una bota?",
+                "respuestas": [
+                    { "texto": "Italia" },
+                    { "texto": "Chile" },
+                    { "texto": "Corea del Sur" },
+                    { "texto": "Japon" }
+                ],
+                "respuestaCorrecta": 0
+            },
+            {
+                "enunciado": "En que continente se encuentra Estados Unidos?",
+                "respuestas": [
+                    { "texto": "Europa" },
+                    { "texto": "Africa" },
+                    { "texto": "Asia" },
+                    { "texto": "America" }
+                ],
+                "respuestaCorrecta": 3
+            },
+            {
+                "enunciado": "En que pais se encuentra la Torre Eiffel?",
+                "respuestas": [
+                    { "texto": "Alemania" },
+                    { "texto": "Ecuador" },
+                    { "texto": "Francia" },
+                    { "texto": "Australia" }
+                ],
+                "respuestaCorrecta": 2
+            },
+            {
+                "enunciado": "De donde provienen los osos polares?",
+                "respuestas": [
+                    { "texto": "El Artico" },
+                    { "texto": "America del Sur" },
+                    { "texto": "Madagascar" },
+                    { "texto": "Groenlandia" }
+                ],
+                "respuestaCorrecta": 0
+            }
+        ]
+    },
+    {
+        "nombreDificultad": "Easy",
+        "preguntas": [
+            {
+                "enunciado": "Cual es el pais mas pequeño del mundo?",
+                "respuestas": [
+                    { "texto": "Costa Rica" },
+                    { "texto": "Ciudad del Vaticano" },
+                    { "texto": "Monaco" },
+                    { "texto": "El Salvador" }
+                ],
+                "respuestaCorrecta": 1
+            },
+            {
+                "enunciado": "Cuantos oceanos hay en la Tierra?",
+                "respuestas": [
+                    { "texto": "5" },
+                    { "texto": "9" },
+                    { "texto": "3" },
+                    { "texto": "12" }
+                ],
+                "respuestaCorrecta": 0
+            },
+            {
+                "enunciado": "Cual es la montaña mas alta del mundo?",
+                "respuestas": [
+                    { "texto": "Kilimanjaro" },
+                    { "texto": "Monte Fuji" },
+                    { "texto": "Chimborazo" },
+                    { "texto": "Monte Everest" }
+                ],
+                "respuestaCorrecta": 3
+            },
+            {
+                "enunciado": "Cual es el rio más largo del mundo?",
+                "respuestas": [
+                    { "texto": "Misisipi" },
+                    { "texto": "Yangtze" },
+                    { "texto": "Nilo" },
+                    { "texto": "Amazonas" }
+                ],
+                "respuestaCorrecta": 2
+            },
+            {
+                "enunciado": "Cual es la cordillera de montañas mas larga del mundo?",
+                "respuestas": [
+                    { "texto": "Andes" },
+                    { "texto": "Himalaya" },
+                    { "texto": "Alpes" },
+                    { "texto": "Montes Urales" }
+                ],
+                "respuestaCorrecta": 0
+            }
+        ]
+    },
+    {
+        "nombreDificultad": "Medium",
+        "preguntas": [
+            {
+                "enunciado": "Donde encontramos el Machu Pichu?",
+                "respuestas": [
+                    { "texto": "Bolivia" },
+                    { "texto": "India" },
+                    { "texto": "Peru" },
+                    { "texto": "Nepal" }
+                ],
+                "respuestaCorrecta": 2
+            },
+            {
+                "enunciado": "Que continente se encuentra en los 4 hemisferios?",
+                "respuestas": [
+                    { "texto": "Europa" },
+                    { "texto": "Africa" },
+                    { "texto": "America" },
+                    { "texto": "Oceania" }
+                ],
+                "respuestaCorrecta": 1
+            },
+            {
+                "enunciado": "Que continente es el mas poblado?",
+                "respuestas": [
+                    { "texto": "Europa" },
+                    { "texto": "Antartida" },
+                    { "texto": "Oceania" },
+                    { "texto": "Asia" }
+                ],
+                "respuestaCorrecta": 3
+            },
+            {
+                "enunciado": "Cual es la capital de Egipto?",
+                "respuestas": [
+                    { "texto": "El Cairo" },
+                    { "texto": "Alejandria" },
+                    { "texto": "Suez" },
+                    { "texto": "Luxor" }
+                ],
+                "respuestaCorrecta": 0
+            },
+            {
+                "enunciado": "Entre cuales paises se encuentra el estrecho de Bering?",
+                "respuestas": [
+                    { "texto": "Rusia-Estados Unidos" },
+                    { "texto": "Canada-Rusia" },
+                    { "texto": "Rusia-Islandia" },
+                    { "texto": "Estados Unidos-Islandia" }
+                ],
+                "respuestaCorrecta": 0
+            }
+        ]
+    },
+    {
+        "nombreDificultad": "Hard",
+        "preguntas": [
+            {
+                "enunciado": "Que proporcion de la superficie mundial es agua?",
+                "respuestas": [
+                    { "texto": "30%" },
+                    { "texto": "70%" },
+                    { "texto": "80%" },
+                    { "texto": "100%" }
+                ],
+                "respuestaCorrecta": 2
+            },
+            {
+                "enunciado": "Cual es el estado mas grande de los Estados Unidos?",
+                "respuestas": [
+                    { "texto": "Alaska" },
+                    { "texto": "California" },
+                    { "texto": "Indiana" },
+                    { "texto": "Oregon" }
+                ],
+                "respuestaCorrecta": 0
+            },
+            {
+                "enunciado": "Cual es la capital de Australia?",
+                "respuestas": [
+                    { "texto": "Melbourne" },
+                    { "texto": "Sidney" },
+                    { "texto": "Perth" },
+                    { "texto": "Camberra" }
+                ],
+                "respuestaCorrecta": 3
+            },
+            {
+                "enunciado": "Que isla es la mas grande del mundo?",
+                "respuestas": [
+                    { "texto": "Bali" },
+                    { "texto": "Groenlandia" },
+                    { "texto": "De Pascua" },
+                    { "texto": "Madagascar" }
+                ],
+                "respuestaCorrecta": 1
+            },
+            {
+                "enunciado": "Cuantos mares existen en la Tierra?",
+                "respuestas": [
+                    { "texto": "74" },
+                    { "texto": "56" },
+                    { "texto": "60" },
+                    { "texto": "28" }
+                ],
+                "respuestaCorrecta": 2
+            }
+        ]
+    },
+    {
+        "nombreDificultad": "Extra Hard",
+        "preguntas": [
+            {
+                "enunciado": "En que pais se encuentra la ciudad de Cracovia?",
+                "respuestas": [
+                    { "texto": "Ucrania" },
+                    { "texto": "Kenia" },
+                    { "texto": "Polonia" },
+                    { "texto": "Serbia" }
+                ],
+                "respuestaCorrecta": 2
+            },
+            {
+                "enunciado": "Que ciudad tuvo una vez el nombre de Leningrado?",
+                "respuestas": [
+                    { "texto": "Estambul" },
+                    { "texto": "Florencia" },
+                    { "texto": "Lisboa" },
+                    { "texto": "San Petersburgo" }
+                ],
+                "respuestaCorrecta": 3
+            },
+            {
+                "enunciado": "Que rio europeo fluye a traves de 10 paises diferentes?",
+                "respuestas": [
+                    { "texto": "Manzanares" },
+                    { "texto": "Danubio" },
+                    { "texto": "Tamesis" },
+                    { "texto": "Tajo" }
+                ],
+                "respuestaCorrecta": 1
+            },
+            {
+                "enunciado": "Que ciudad se considera la mas antigua?",
+                "respuestas": [
+                    { "texto": "Atenas" },
+                    { "texto": "Jerusalen" },
+                    { "texto": "Damasco" },
+                    { "texto": "Tebas" }
+                ],
+                "respuestaCorrecta": 2
+            },
+            {
+                "enunciado": "Cuantos paises forman parte de la Union Europea?",
+                "respuestas": [
+                    { "texto": "27" },
+                    { "texto": "31" },
+                    { "texto": "24" },
+                    { "texto": "39" }
+                ],
+                "respuestaCorrecta": 0
+            }
+        ]
+    }
+]
