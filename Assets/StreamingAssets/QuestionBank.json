@@ -58,7 +58,7 @@
         "nombreDificultad": "Easy",
         "preguntas": [
             {
-                "enunciado": "Cual es el pais mas pequeño del mundo?",
+                "enunciado": "Cual es el pais mas pequeno del mundo?",
                 "respuestas": [
                     { "texto": "Costa Rica" },
                     { "texto": "Ciudad del Vaticano" },
@@ -78,7 +78,7 @@
                 "respuestaCorrecta": 0
             },
             {
-                "enunciado": "Cual es la montaña mas alta del mundo?",
+                "enunciado": "Cual es la montana mas alta del mundo?",
                 "respuestas": [
                     { "texto": "Kilimanjaro" },
                     { "texto": "Monte Fuji" },
@@ -88,7 +88,7 @@
                 "respuestaCorrecta": 3
             },
             {
-                "enunciado": "Cual es el rio más largo del mundo?",
+                "enunciado": "Cual es el rio mas largo del mundo?",
                 "respuestas": [
                     { "texto": "Misisipi" },
                     { "texto": "Yangtze" },
@@ -98,7 +98,7 @@
                 "respuestaCorrecta": 2
             },
             {
-                "enunciado": "Cual es la cordillera de montañas mas larga del mundo?",
+                "enunciado": "Cual es la cordillera de montanas mas larga del mundo?",
                 "respuestas": [
                     { "texto": "Andes" },
                     { "texto": "Himalaya" },
